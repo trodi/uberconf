@@ -9,12 +9,12 @@ designed for developers
 sponsored by google/facebook
 write once, test on multiple browsers and mobile browsers
 
-*ThoughtWorks Twist
+* ThoughtWorks Twist
 
 gradle
 ------
-*executing test
-*provisioning browsers
+* executing test
+* provisioning browsers
 
 continuous integration
 ----------------------
