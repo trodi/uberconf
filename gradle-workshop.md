@@ -31,11 +31,11 @@ groove meta programming
 dependencies
 ------------
 can pull from various repos 
-*maven
-*artifactory
-*ivy
-*static lib dir
-*mix them all together
+* maven
+* artifactory
+* ivy
+* static lib dir
+* mix them all together
 
 wrapper
 -------
@@ -44,7 +44,7 @@ gradlew
 	./gradlew <name>
 	
 tasks are normally camel case
-*if you do you can abbreviate - fooBar -> fB
+* if you do you can abbreviate - fooBar -> fB
 
 buildscript
 -----------
