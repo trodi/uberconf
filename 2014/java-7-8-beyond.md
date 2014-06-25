@@ -1,0 +1,6 @@
+# Java 7,8 and beyond
+
+ugh...
+
+* java api for json processing
+* JPA 2.1 - standardizes stored procedures, schema generation ...
