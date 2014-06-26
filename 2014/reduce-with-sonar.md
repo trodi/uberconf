@@ -34,3 +34,7 @@
 	* x days worth of debt etc.
 ## technical debt
 * ward cunnigham coined
+
+## part 2 - extending the range of sonar
+* supports numerous other langs
+* scheduled jenkins job (plugin) to run sonar
