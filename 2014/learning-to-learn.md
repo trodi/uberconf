@@ -41,7 +41,7 @@ if you want to improve:
 * repeat - solve same problem in a different way (with tests etc., env supports this)
 * engage - what went wrong, not just a quick fix
 
-### writing cognitive intelligence (book)
+### programming collective intelligence (book)
 
 ## SQR3
 * Scan - scan over the chapter
