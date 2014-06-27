@@ -16,3 +16,4 @@
 ## other
 * build installer to allow for easier decoupled deployment
 * work angular into client
+* http://launch4j.sourceforge.net/
