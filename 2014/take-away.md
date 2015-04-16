@@ -13,6 +13,13 @@
 * http://www.instructables.com/id/Cwik-Clock-v10-An-Arduino-Binary-Clock/step10/Goodbye-Prototype-Hello-Production/
 * http://www.reddit.com/r/electronics/comments/19rdr4/how_do_i_go_from_arduino_prototype_to_cheap_mass/
 
+## books
+* Nosql distilled
+* Continuous delivery
+* Functional thinking
+* Release it
+* Inviting disaster
+
 ## other
 * build installer to allow for easier decoupled deployment
 * work angular into client
